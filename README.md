@@ -1,6 +1,6 @@
-# vue-webpack-typescript-simple
+# vue-webpack-typescript-material
 
-> A simple vuejs Webpack setup with TypeScript + SCSS.
+> A simple vuejs Webpack setup with TypeScript + SCSS + [vue-material](https://github.com/vuematerial/vue-material).
 
 > This template is for vue 2.3+, vue-router is included.
 
@@ -10,7 +10,7 @@ This is a project template for [vue-cli](https://github.com/vuejs/vue-cli). **It
 
 ``` bash
 $ npm install -g vue-cli
-$ vue init martinsileno/vue-webpack-typescript-simple my-project
+$ vue init martinsileno/vue-webpack-typescript-material my-project
 $ cd my-project
 $ npm install
 $ npm run dev

@@ -2,6 +2,6 @@ html, body, #app-main {
   height: 100%;
 }
 
-.content h1 {
-  text-align: center;
+.main-content {
+  padding: 16px;
 }
